@@ -69,7 +69,3 @@ if os.path.exists(refresh_bat_path):
     shutil.copy(refresh_bat_path, os.path.join(current_dir, "refresh.bat"))
 else:
     print("refresh.bat not found in the 'gen' directory.")
-
-setup_exe_path = os.path.join(gen_dir, "setup.exe")
-if os.path.exists(setup_exe_path):
-    os.remove(setup_exe_path)
