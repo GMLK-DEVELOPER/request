@@ -1,0 +1,53 @@
+"2614070"
+{
+	"ChangeNumber"		"-4450776741634796535"
+	"ostype"		"0"
+	"savedata/system.dat"
+	{
+		"root"		"1"
+		"size"		"5762"
+		"localtime"		"1708056002"
+		"time"		"1708055993"
+		"remotetime"		"1708055021"
+		"sha"		"fb55c22f4de5a59f6a39baa65ceb06c0e96e1e77"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"savedata/saveg.dat"
+	{
+		"root"		"1"
+		"size"		"7154"
+		"localtime"		"1708056002"
+		"time"		"1708055993"
+		"remotetime"		"1708055021"
+		"sha"		"7b99f0f3489b6cffbbadb7dfa990680c735b45da"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"savedata/save0001.png"
+	{
+		"root"		"1"
+		"size"		"67480"
+		"localtime"		"1708055024"
+		"time"		"1708055016"
+		"remotetime"		"1708055016"
+		"sha"		"d1406c140b26f58f270043b883a17d97a37742bb"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"savedata/save0001.dat"
+	{
+		"root"		"1"
+		"size"		"63082"
+		"localtime"		"1708056001"
+		"time"		"1708055992"
+		"remotetime"		"1708055016"
+		"sha"		"9873938aae019da672a3db42b7044fc493c13899"
+		"syncstate"		"3"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
